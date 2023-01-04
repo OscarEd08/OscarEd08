@@ -6,7 +6,7 @@
 - 📫 How to reach me **oscarpairazaman.contact@gmail.com**
 
 <h1>Stats</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscared08&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="oscared08" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscared08&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="oscared08" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscared08&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="oscared08" /></p>
 
 <h1 align="left">Languages and Tools</h1>
