@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Pairazaman</h1>
-<h3 align="center">Software Engineer Student</h3>
-
-- 🌱 I’m currently learning **React, AWS, SQL**
+<h3 align="center">Software Engineer</h3>
 
 - 📫 How to reach me **oscar.pairazaman11@gmail.com**
 
